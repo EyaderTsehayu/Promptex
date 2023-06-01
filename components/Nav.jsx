@@ -39,7 +39,7 @@ const Nav = () => {
             <button type="button" onClick={signOut} className="outline_btn">
               Sign out
             </button>{" "}
-            {/* <Link href="/profile">
+            <Link href="/profile">
               <Image
                 src="/assets/images/logo.svg"
                 alt="profile"
@@ -47,7 +47,7 @@ const Nav = () => {
                 width={37}
                 height={37}
               />
-            </Link> */}
+            </Link>
           </div>
         ) : (
           <>
