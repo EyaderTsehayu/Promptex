@@ -12,7 +12,7 @@ const Home = () => {
         Fuel your creativity,discover and share Prompts with promptEx, the
         AI-driven tool that elevates your writing experience.
       </p>
-      {/* <Feed /> */}
+      <Feed />
     </section>
   );
 };
